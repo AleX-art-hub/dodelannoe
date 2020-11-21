@@ -29,13 +29,11 @@ body {
   width: 200px;
   height: 200px;
   position: relative;
-  top: -340px;
+  top: -100px;
 }
 .image img {
   width: inherit;
   height: inherit;
-  position: absolute;
-  top: 240px;
   margin-bottom: 20px;
   border-radius: 50%;
 }
